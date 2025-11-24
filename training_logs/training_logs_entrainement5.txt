@@ -1,0 +1,54 @@
+Steps: 1000/50000 | Avg Reward Batch: 0.22 | Epsilon: 0.951
+Steps: 2000/50000 | Avg Reward Batch: -0.04 | Epsilon: 0.904
+Steps: 3000/50000 | Avg Reward Batch: 0.10 | Epsilon: 0.860
+Steps: 4000/50000 | Avg Reward Batch: -0.06 | Epsilon: 0.818
+Steps: 5000/50000 | Avg Reward Batch: 0.10 | Epsilon: 0.778
+Steps: 6000/50000 | Avg Reward Batch: 0.10 | Epsilon: 0.740
+Steps: 7000/50000 | Avg Reward Batch: 0.12 | Epsilon: 0.703
+Steps: 8000/50000 | Avg Reward Batch: 0.09 | Epsilon: 0.669
+Steps: 9000/50000 | Avg Reward Batch: 0.24 | Epsilon: 0.636
+Steps: 10000/50000 | Avg Reward Batch: 0.36 | Epsilon: 0.605
+💾 Modèle sauvegardé : models/doom_dqn_vec_10000.pth
+Steps: 11000/50000 | Avg Reward Batch: 0.12 | Epsilon: 0.575
+Steps: 12000/50000 | Avg Reward Batch: -0.03 | Epsilon: 0.547
+Steps: 13000/50000 | Avg Reward Batch: 0.22 | Epsilon: 0.520
+Steps: 14000/50000 | Avg Reward Batch: 0.50 | Epsilon: 0.495
+Steps: 15000/50000 | Avg Reward Batch: 0.36 | Epsilon: 0.471
+Steps: 16000/50000 | Avg Reward Batch: 0.12 | Epsilon: 0.448
+Steps: 17000/50000 | Avg Reward Batch: 0.24 | Epsilon: 0.426
+Steps: 18000/50000 | Avg Reward Batch: 0.25 | Epsilon: 0.405
+Steps: 19000/50000 | Avg Reward Batch: 0.24 | Epsilon: 0.385
+Steps: 20000/50000 | Avg Reward Batch: -0.01 | Epsilon: 0.366
+💾 Modèle sauvegardé : models/doom_dqn_vec_20000.pth
+Steps: 21000/50000 | Avg Reward Batch: 0.10 | Epsilon: 0.348
+Steps: 22000/50000 | Avg Reward Batch: 0.12 | Epsilon: 0.331
+Steps: 23000/50000 | Avg Reward Batch: 0.10 | Epsilon: 0.315
+Steps: 24000/50000 | Avg Reward Batch: 0.25 | Epsilon: 0.299
+Steps: 25000/50000 | Avg Reward Batch: 0.12 | Epsilon: 0.285
+Steps: 26000/50000 | Avg Reward Batch: 0.24 | Epsilon: 0.271
+Steps: 27000/50000 | Avg Reward Batch: 0.12 | Epsilon: 0.257
+Steps: 28000/50000 | Avg Reward Batch: 0.49 | Epsilon: 0.245
+Steps: 29000/50000 | Avg Reward Batch: -0.03 | Epsilon: 0.233
+Steps: 30000/50000 | Avg Reward Batch: -0.00 | Epsilon: 0.221
+💾 Modèle sauvegardé : models/doom_dqn_vec_30000.pth
+Steps: 31000/50000 | Avg Reward Batch: 0.22 | Epsilon: 0.211
+Steps: 32000/50000 | Avg Reward Batch: 0.24 | Epsilon: 0.200
+Steps: 33000/50000 | Avg Reward Batch: -0.00 | Epsilon: 0.190
+Steps: 34000/50000 | Avg Reward Batch: -0.01 | Epsilon: 0.181
+Steps: 35000/50000 | Avg Reward Batch: -0.01 | Epsilon: 0.172
+Steps: 36000/50000 | Avg Reward Batch: 0.35 | Epsilon: 0.164
+Steps: 37000/50000 | Avg Reward Batch: 0.25 | Epsilon: 0.156
+Steps: 38000/50000 | Avg Reward Batch: 0.11 | Epsilon: 0.148
+Steps: 39000/50000 | Avg Reward Batch: -0.00 | Epsilon: 0.141
+Steps: 40000/50000 | Avg Reward Batch: 0.10 | Epsilon: 0.134
+💾 Modèle sauvegardé : models/doom_dqn_vec_40000.pth
+Steps: 41000/50000 | Avg Reward Batch: -0.04 | Epsilon: 0.127
+Steps: 42000/50000 | Avg Reward Batch: 0.37 | Epsilon: 0.121
+Steps: 43000/50000 | Avg Reward Batch: -0.00 | Epsilon: 0.115
+Steps: 44000/50000 | Avg Reward Batch: -0.00 | Epsilon: 0.110
+Steps: 45000/50000 | Avg Reward Batch: 0.21 | Epsilon: 0.104
+Steps: 46000/50000 | Avg Reward Batch: -0.00 | Epsilon: 0.099
+Steps: 47000/50000 | Avg Reward Batch: 0.24 | Epsilon: 0.094
+Steps: 48000/50000 | Avg Reward Batch: -0.00 | Epsilon: 0.090
+Steps: 49000/50000 | Avg Reward Batch: 0.25 | Epsilon: 0.085
+Steps: 50000/50000 | Avg Reward Batch: 0.12 | Epsilon: 0.081

@@ -1,0 +1,15 @@
+# Environnement virtuel
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers de logs et plots
+*.png
+
+# Modèles (Trop lourds pour GitHub classique, on ignore tout sauf peut-être un "best")
+models/*.pth
+!models/best_model.pth
+
+# Assets (VizDoom files)
+assets/*.wad
+# On garde les .cfg car ils sont légers et nécessaires à la config
