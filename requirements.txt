@@ -1,0 +1,6 @@
+vizdoom
+gymnasium
+stable-baselines3
+opencv-python
+torch
+numpy
